@@ -1,0 +1,34 @@
+📄 Project Synopsis: Amazon Clone
+Project Title: Amazon Clone – Frontend UI
+Technologies Used: HTML5, CSS3
+GitHub Repository: https://github.com/premgpt2005/Amazon-clone
+
+✅ Objective:
+To replicate the frontend user interface of Amazon’s homepage using HTML and CSS, focusing on layout design, visual aesthetics, and responsiveness.
+
+🧩 Key Features:
+Amazon-like navigation bar with logo, search bar, and cart icon
+
+Interactive sections including “Deals,” “Customer Service,” “Gift Cards,” etc.
+
+Product categories with image tiles (e.g., Health, Electronics, Furniture, Mobile Phones)
+
+Promotional banner section
+
+Basic layout responsiveness (desktop-focused)
+
+🎯 Learning Outcomes:
+Deepened understanding of web layout structuring using semantic HTML
+
+Strengthened CSS styling and positioning skills
+
+Improved responsiveness and visual hierarchy
+
+Learned to mimic real-world UI using only frontend tech
+
+🔧 Scope for Improvement:
+Add JavaScript to enable interactivity (e.g., dynamic cart, dropdowns)
+
+Improve mobile responsiveness using media queries
+
+Integrate with a backend or use JSON for dynamic product data
