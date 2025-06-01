@@ -4,9 +4,11 @@ Technologies Used: HTML5, CSS3
 GitHub Repository: https://github.com/premgpt2005/Amazon-clone
 
 ✅ Objective:
+
 To replicate the frontend user interface of Amazon’s homepage using HTML and CSS, focusing on layout design, visual aesthetics, and responsiveness.
 
 🧩 Key Features:
+
 Amazon-like navigation bar with logo, search bar, and cart icon
 
 Interactive sections including “Deals,” “Customer Service,” “Gift Cards,” etc.
@@ -18,6 +20,7 @@ Promotional banner section
 Basic layout responsiveness (desktop-focused)
 
 🎯 Learning Outcomes:
+
 Deepened understanding of web layout structuring using semantic HTML
 
 Strengthened CSS styling and positioning skills
